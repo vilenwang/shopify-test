@@ -9,6 +9,9 @@
 */
 {
   "sections": {
+    "cusmtom-page": {
+      "type": "cusmtom-page"
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -111,6 +114,7 @@
     }
   },
   "order": [
+    "cusmtom-page",
     "main",
     "collage_VyRFDw",
     "multirow_zxB4cp"
